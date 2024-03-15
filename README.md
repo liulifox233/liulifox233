@@ -1,3 +1,3 @@
 ![](VID_20230723_182853.gif)
 ***
-![:name](https://moecounter.liulifox.one/get/@:liulifox233?theme=rule34)
+![counter](https://count.getloli.com/get/@liulifox?theme=rule34)
