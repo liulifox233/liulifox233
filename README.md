@@ -40,4 +40,4 @@
 
 <a href="https://wakatime.com/@c001516a-453a-4933-9d9d-63f1428720ee"><img src="https://wakatime.com/badge/user/c001516a-453a-4933-9d9d-63f1428720ee.svg?style=flat-square" alt="Total time coded" /></a>
 
-![Coding stats](https://github-readme-stats.vercel.app/api/top-langs/?username=liulifox233&card_width=25&layout=compact&exclude_repo=liuliblog)
+![Coding stats](https://github-readme-stats-one-bice.vercel.app/api?username=liulifox233&theme=&show_icons=true&card_width=400&include_all_commits=true#gh-dark-mode-only)
