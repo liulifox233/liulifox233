@@ -2,28 +2,24 @@
 
 <p align="center">
   <a href="https://apple.com/mac" target="_blank"><img src="https://img.shields.io/badge/MacOS-white?style=flat-square&logo=apple&logoColor=black" alt="MacOS"></a>
-  <a href="https://www.oneplus.com" target="_blank"><img src="https://img.shields.io/badge/OnePlus-%23F5010C?style=flat-square&logo=oneplus&logoColor=white" alt="OnePlus"></a>
   <a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/archlinux-%231793D1?style=flat-square&logo=archlinux&logoColor=white" alt="archlinux"></a>
   <br/>
   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"></a>
   <a href="https://www.rust-lang.org" target="_blank"><img src="https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"></a>
-  <a href="https://github.com/ros2/ros2" target="_blank"><img src="https://img.shields.io/badge/ROS2-%2322314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2"></a>
   <br/>
   <a href="https://music.apple.com/profile/liulifox" target="_blank"><img src="https://img.shields.io/badge/AppleMusic-red?style=flat-square&logo=applemusic&logoColor=white&color=%23FA243C" alt="Apple Music"></a>
-  <a href="https://www.wireshark.org" target="_blank"><img src="https://img.shields.io/badge/Wireshark-%231679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"></a>
   <a href="https://fishshell.com" target="_blank"><img src="https://img.shields.io/badge/fish-black?style=flat-square&logo=fishshell&logoColor=%2334C534" alt="fish shell"></a>
-  <a href="https://www.apple.com/safari" target="_blank"><img src="https://img.shields.io/badge/Safari-%23006CFF?style=flat-square&logo=safari" alt="Safari"></a>
 </p>
 
-<img src="ame.png" align="left" width="300px"/>
+<img src="hachigatsu_no_kaze_ga_fuku_koro.webp" align="left" width="300px"/>
 
 ### 🐟 About Me ~
 
 **るり**です！你可以直接叫我**流离**。
 
 - 中文 · English · ~~日本語~~
-- :mortar_board: Learning Computer Science / Artificial Intelligence at BUPT
-- :alarm_clock: Online time [09:00-03:00][UTC+8](https://time.is/UTC+8)
+- :mortar_board: Learning Computer Science at BUPT
 
 ### 💻 Development Environment
 
@@ -41,3 +37,5 @@
 <a href="https://wakatime.com/@c001516a-453a-4933-9d9d-63f1428720ee"><img src="https://wakatime.com/badge/user/c001516a-453a-4933-9d9d-63f1428720ee.svg?style=flat-square" alt="Total time coded" /></a>
 
 ![Coding stats](https://github-readme-stats-one-bice.vercel.app/api?username=liulifox233&theme=&show_icons=true&card_width=400&include_all_commits=true#gh-dark-mode-only)
+
+<p align="left"><sub><small style="color:gray">character illustration: <a href="https://www.pixiv.net/artworks/99434300" target="_blank" rel="noopener noreferrer">https://www.pixiv.net/artworks/99434300</a></small></sub></p>
