@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://apple.com/mac" target="_blank"><img src="https://img.shields.io/badge/MacOS-white?style=flat-square&logo=apple&logoColor=black" alt="MacOS"></a>
-  <a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/archlinux-%231793D1?style=flat-square&logo=archlinux&logoColor=white" alt="archlinux"></a>
+  <a href="https://nixos.org" target="_blank"><img src="https://img.shields.io/badge/NixOS-%235277C3?style=flat-square&logo=nixos&logoColor=white" alt="NixOS"></a>
   <br/>
   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"></a>
@@ -25,11 +25,8 @@
 
 <p align="left">
   <a href="https://apple.com/mac" target="_blank"><img src="https://img.shields.io/badge/MacBook Pro M3 Max-%23000000?style=flat-square&logo=apple&logoColor=white" alt="MacOS"></a>
-  <a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/archlinux-%231793D1?style=flat-square&logo=archlinux&logoColor=white" alt="archlinux"></a>
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ficon-endpoint.liulifox.workers.dev%2Fwin11&style=flat-square" alt="Windows11"></a>
-  <br/>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Ficon-endpoint.liulifox.workers.dev&style=flat-square" alt="VSCode"></a>
-  <a href="https://www.vim.org" target="_blank"><img src="https://img.shields.io/badge/Vim-white?style=flat-square&logo=vim&logoColor=%23019733" alt="Vim"></a>
+  <a href="https://nixos.org" target="_blank"><img src="https://img.shields.io/badge/NixOS-%235277C3?style=flat-square&logo=nixos&logoColor=white" alt="NixOS"></a>
+  <a href="https://zed.dev" target="_blank"><img src="https://img.shields.io/badge/Zed-black?logo=zedindustries&style=flat-square" alt="Zed"></a>
 </p>
 
 ### ⏳ Coding status
